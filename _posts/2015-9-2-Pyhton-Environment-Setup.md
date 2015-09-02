@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Pyhton Environment Setup
+author: "Mitch"
+tags: Python
 ---
 
 因最近重新開始學習研究 Python 
