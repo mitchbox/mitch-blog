@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Mitch Chen.
 
-### More Information
+**Director @ MIGO Corp.**
 
-A place to include any other types of information that you'd like to include about yourself.
+Focusing on developing web applications and mobile apps.
 
-### Contact me
+### Blog
 
-[email@domain.com](mailto:email@domain.com)
+[MitchBox](http://mitchbox.wordpress.com)
